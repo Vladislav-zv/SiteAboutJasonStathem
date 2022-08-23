@@ -1,0 +1,89 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+div{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+a:link{
+    text-decoration: none;
+    border: none;
+}
+a:visited{
+    text-decoration: none;
+    border: none;
+}
+a:hover{
+    font-family:monospace;
+}
+.w-85{
+    width: 85%;
+}
+.w-15{
+    width: 15%;
+}
+.tbl{
+    width: 50% !important;
+    margin: auto !important;
+}
+.menu{
+    overflow: hidden;
+    background: linear-gradient(to bottom left, rgb(36, 39, 45), rgb(87, 94, 100));
+    position: fixed;
+}
+.backGr{
+    background-image: url(../images/backFilmography2.webp); 
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+.title{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 4.5vw;
+    color: rgb(32, 30, 30);
+    margin-top: 3%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.link1{
+    position: absolute;
+    height: 8%;
+    top: 15%;
+}
+.link2{
+    position: absolute;
+    height: 8%;
+    top: 25%;
+}
+.link3{
+    position: absolute;
+    height: 8%;
+    top: 35%;
+}
+.link4{
+    position: absolute;
+    height: 8%;
+    top: 45%;
+}
+.link5{
+    position: absolute;
+    height: 8%;
+    top: 55%;
+}
+.link6{
+    position: absolute;
+    height: 8%;
+    top: 65%;
+}
+.tLink{
+    text-align: center !important;
+    color: whitesmoke !important;
+    font-size: 1.5vw;
+    margin-top: 5%;
+}
