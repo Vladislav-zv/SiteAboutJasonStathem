@@ -1,7 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "SiteAboutJasonStathem",
+			"path": ".."
 		}
 	],
 	"settings": {}
