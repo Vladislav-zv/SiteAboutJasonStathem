@@ -1,0 +1,94 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+div{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+a:link{
+    text-decoration: none;
+    border: none;
+}
+a:visited{
+    text-decoration: none;
+    border: none;
+}
+a:hover{
+    font-family:monospace;
+}
+.w-85{
+    width: 85%;
+}
+.w-15{
+    width: 15%;
+}
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5vw;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: rgb(48, 44, 40);
+}
+.content{
+    margin: 3% 8% 8% 8%;
+    display: block;
+}
+.menu{
+    overflow: hidden;
+    background: linear-gradient(to bottom left, rgb(36, 39, 45), rgb(87, 94, 100));
+    position: fixed;
+}
+.text{
+    font-family:monospace;
+    font-size: 2vw;
+    color: black;
+}
+.backGr{
+    background-image: linear-gradient(rgb(195, 220, 242), rgb(189, 200, 215));
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+.link1{
+    position: absolute;
+    height: 8%;
+    top: 15%;
+}
+.link2{
+    position: absolute;
+    height: 8%;
+    top: 25%;
+}
+.link3{
+    position: absolute;
+    height: 8%;
+    top: 35%;
+}
+.link4{
+    position: absolute;
+    height: 8%;
+    top: 45%;
+}
+.link5{
+    position: absolute;
+    height: 8%;
+    top: 55%;
+}
+.link6{
+    position: absolute;
+    height: 8%;
+    top: 65%;
+}
+.tLink{
+    text-align: center !important;
+    color: whitesmoke !important;
+    font-size: 1.5vw;
+    margin-top: 5%;
+}
