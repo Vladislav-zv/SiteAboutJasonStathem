@@ -85,6 +85,17 @@ a:hover{
     height: 8%;
     top: 65%;
 }
+.link7{
+    position: absolute;
+    height: 8%;
+    top: 85%;
+}
+.tLinkInfo{
+    text-align: center !important;
+    color: rgba(245, 245, 245, 0.716) !important;
+    font-size: 1.5vw;
+    margin-top: 5%;
+}
 .tLink{
     text-align: center !important;
     color: whitesmoke !important;

@@ -18,22 +18,16 @@ a:visited{
 a:hover{
     font-family:monospace;
 }
-.content{
-    display: block;
-    margin-top: 5% !important;
-}
-.descr{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 2vw;
-    margin-top: 3%;
-    color: rgb(28, 25, 25);
-    margin-left: 3%;
-}
 .w-85{
     width: 85%;
 }
 .w-15{
     width: 15%;
+}
+.tbl{
+    width: 50% !important;
+    margin: auto !important;
+    margin-bottom: 5% !important;
 }
 .menu{
     overflow: hidden;
@@ -41,7 +35,7 @@ a:hover{
     position: fixed;
 }
 .backGr{
-    background-image: url(../images/backFilmography.jpg); 
+    background-image: url(../images/backFilmography2.webp); 
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -49,6 +43,14 @@ a:hover{
     -moz-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
+}
+.title{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 3.5vw;
+    color: rgb(32, 30, 30);
+    margin-top: 3%;
+    text-align: center;
+    margin-bottom: 5%;
 }
 .link1{
     position: absolute;
