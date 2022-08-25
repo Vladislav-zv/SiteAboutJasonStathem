@@ -42,12 +42,12 @@ a:hover{
     position: fixed;
 }
 .text{
-    font-family:monospace;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 2vw;
     color: black;
 }
 .backGr{
-    background-image: linear-gradient(rgb(195, 220, 242), rgb(189, 200, 215));
+    background-image: linear-gradient(rgb(215, 212, 219), rgb(121, 124, 127));
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
